@@ -1,0 +1,18 @@
+{
+    "usuarios": [
+      {
+        "id": "1",
+        "nome": "Fulano",
+        "email": "fulanol@gmail.com",
+        "senha": "123"
+      }
+    ],
+
+    "produtos": [
+        {
+            "id": "1",
+            "nome": "Calça Moletom Slim Mescla",
+            "preco": "R$ 169,90",
+            "descricao": "Descrição do produto 1"
+           }
+    ]
